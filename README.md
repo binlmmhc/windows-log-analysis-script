@@ -1,0 +1,3 @@
+# windows-log-analysis-script
+用于快速分析windows日志的powershell脚本，目前只针对Microsoft-Windows-TerminalServices-RemoteConnectionManager%4Operational.evtx日志写了分析，
+后续将会添加更多日志的分析，最后会汇总成为一个工具吧。针对日志的分析的工具很多，但是这种定向的我感觉会快速一点。
